@@ -38,8 +38,9 @@ public struct HSKLineStyle {
     public var borderColor = UIColor.hschart.color(rgba: "#e4e4e4")
     public var crossLineColor = UIColor.hschart.color(rgba: "#546679")
     public var textColor = UIColor.hschart.color(rgba: "#8695a6")
-    public var riseColor = UIColor.hschart.color(rgba: "#f24957") // 涨 red
-    public var fallColor = UIColor.hschart.color(rgba: "#1dbf60") // 跌 green
+    public var riseColor = UIColor.hschart.color(rgba: "#1dbf60") // 涨 green
+    public var fallColor = UIColor.hschart.color(rgba: "#f24957") // 跌 red
+
     public var priceLineCorlor = UIColor.hschart.color(rgba: "#0095ff")
     public var avgLineCorlor = UIColor.hschart.color(rgba: "#ffc004") // 均线颜色
     public var fillColor = UIColor.hschart.color(rgba: "#e3efff")
