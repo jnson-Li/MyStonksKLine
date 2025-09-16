@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name             = 'MyStonksKLine'
   s.version          = '1.0.0'
   s.summary          = 'A Stock Chart include CandleStickChart,TimeLineChart.'
-  s.homepage         = 'https://github.com/zyphs21/HSStockChart'
+  s.homepage         = 'https://github.com/jnson-Li/MyStonksKLine'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zyphs21' => 'hansenhs21@live.com' }
   s.source           = { :git => 'https://github.com/jnson-Li/MyStonksKLine.git', :tag => s.version.to_s }
